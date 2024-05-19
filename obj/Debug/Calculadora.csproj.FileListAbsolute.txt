@@ -1,0 +1,14 @@
+D:\Vgome\Projects\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\Vgome\Projects\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Vgome\Projects\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\Vgome\Projects\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\Vgome\Projects\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Vgome\Projects\Calculadora\bin\Debug\Calculadora.exe
+D:\Vgome\Projects\Calculadora\bin\Debug\Calculadora.pdb
+D:\Vgome\Projects\Calculadora\obj\Debug\Calculadora.exe
+D:\Vgome\Projects\Calculadora\obj\Debug\Calculadora.pdb
+D:\Vgome\Projects\Calculadora\obj\Debug\CalculadoraSimples.Form1.resources
+D:\Vgome\Projects\Calculadora\bin\Debug\Calculadora.exe.manifest
+D:\Vgome\Projects\Calculadora\bin\Debug\Calculadora.application
+D:\Vgome\Projects\Calculadora\obj\Debug\Calculadora.exe.manifest
+D:\Vgome\Projects\Calculadora\obj\Debug\Calculadora.application
